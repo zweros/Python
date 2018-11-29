@@ -1,4 +1,11 @@
 
+[https://iquant.guosen.com.cn/post/89?tag=new](https://iquant.guosen.com.cn/post/89?tag=new)
+
+
+
+
+
+### 小市值策略
 
 ```python
 '''
@@ -85,3 +92,5 @@ def filter_paused_stock(stock_list):
     return [stock for stock in stock_list if not current_data[stock].paused]
 
 ```
+
+
